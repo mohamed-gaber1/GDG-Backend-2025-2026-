@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <!--
+         Meta Tag
+         For Defining The Content Encoding
+         -->
+        <meta charset="utf-8">
+
+         <!--
+         Meta Tag
+         For Description The page
+         -->
+        <meta name="description" content="this is description for my frist page">
+
+         <!--
+         Meta Tag
+         To facilitate the search process when typing specific words
+         -->
+        <meta name="keywords" content="books,actions,comedans">
+
+        
+         <!--
+         Meta Tag
+         To refresh the page within a specific time
+         -->
+        <meta http-equiv="refresh" content="1">
+
+    </head>
+    <body>
+       
+    </body>
+</html>
