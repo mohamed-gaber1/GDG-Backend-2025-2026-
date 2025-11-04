@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="this is description for my frist page">
+        <title>My First Page</title>
+        <style></style>
+        <script></script>
+
+    </head>
+    <body>
+        <div>
+            <h2>My Info</h2>
+                <p>ym name is <b>Mohamed Gaber</b></p>
+                <p>Iam <strong>Available</strong>for hire</p>
+                <p>my hour old price is <del>$10</del> and the new price is <mark>$30</mark></p>
+                <p>Visit my website from this link <a href="https://www.google.com/">MO</a></p>
+        </div>
+        <hr>
+        <div>
+            <h2>Here is some of my clients</h2>
+                <img height="50" src="img/Screenshot 2025-08-07 143223.png" alt="">
+                <img height="50" src="img/Screenshot 2025-08-07 143236.png" alt="">
+
+        </div>
+        <hr>
+        <div>
+            <h2>My skills</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                        <ul>
+                            <li>Vuejs</li>
+                            <li>Reactjs</li>
+                            <li>Angular</li>
+                                <ol start="4">
+                                    <li>V4.0</li>
+                                    <li>V5.0</li>
+                                    <li>V6.0</li>
+                                    <li>V7.0</li>
+                                    <li>V8.0</li>
+                                </ol>
+                            <li>Svelte</li>
+                        </ul>
+                    <li>python</li>
+                </ul>
+        </div>
+
+        
+
+    </body>
+</html>
