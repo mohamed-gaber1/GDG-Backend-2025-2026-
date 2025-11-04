@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="this is description for my first page">
+        <title>My First Page</title>
+        <style></style>
+        <script></script>
+
+    </head>
+    <body>
+        <table border="2" style="width:100%; height:100vh; border-collapse:collapse;" >
+            <caption>Members Data</caption>
+            <thead>
+                <tr>
+                    <th>Group</th>
+                    <th>Avatar</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Character</th>
+                    <th>Profile</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="2">Ninja</td>
+                    <td><img height="40" src="img/Screenshot 2025-10-30 185316.png" alt=""></td>
+                    <td>mohamed <br> gaber</td>
+                    <td>m1@.mo <hr> m2@.mo</td>
+                    <td>$</td>
+                    <td><a href="https://www.google.com/">profile</a></td>
+                </tr>
+                <tr>
+                    <td><img height="40" src="img/Screenshot 2025-10-30 185316.png" alt=""></td>
+                    <td>nada <br>ali</td>
+                    <td>n@.df</td>
+                    <td>#</td>
+                    <td><a href="https://www.google.com/">profile</a></td>
+                </tr>
+                <tr>
+                    <td>mosters</td>
+                    <td><img height="40" src="img/Screenshot 2025-10-30 185316.png" alt=""></td>
+                    <td>mohamed <br> ali</td>
+                    <td>m1jf@.fo</td>
+                    <td>&</td>
+                    <td><a href="https://www.google.com/">profile</a></td>
+                </tr>
+                
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="5">Total Members</td>
+                    <td>3</td>
+                </tr>
+            </tfoot>
+        </table>
+
+    </body>
+</html>
