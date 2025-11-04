@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="this is description for my first page">
+        <title>My First Page</title>
+        <style></style>
+        <script></script>
+
+    </head>
+    <body>
+        <h1>FOUDA</h1>
+            <h4>FOUDA is a clothing store </h4>
+        <h2>section 1</h2>
+            <h3>1-shirt</h3>
+                <h4>there are many shirts </h4>
+                <hr>
+            <h3>2-Tshirt</h3>
+                <h4>there are many Tshirts </h4>
+                <hr>
+            <h3>3-shorts</h3>
+                <h4>there are many shorts </h4>
+                <hr>
+                <hr>
+        <h2>section 2</h2>
+            <h3>1-shoes</h3>
+                <h4>there are many shoes </h4>
+                <hr>
+            <h3>2-slipper</h3>
+                <h4>there are many slipper </h4>
+                <hr>
+            <h3>3-underwear</h3>
+                <h4>there are many underwear </h4>
+                 <hr>
+
+
+
+    </body>
+</html>
+
