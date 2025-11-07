@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+    <title>Gaber</title>
+</head>
+<body>
+    <p>التكليف 4</p>
+    <video controls muted autoplay loop poster="img/Screenshot 2025-10-30 185316.png" >
+
+        <source src="audio/ف.mp4">
+        <source src="audio/ف.web">
+        <source src="audio/ف.ogg">
+        your browser doesn't support video
+    </video>
+    <br>
+
+</body>
+</html>
