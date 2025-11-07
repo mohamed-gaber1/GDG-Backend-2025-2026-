@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaber</title>
+</head>
+<body>
+    <form method="post" accept="test.py">
+            <div>
+               <label for="txt">username</label >
+                <br>
+                <input id="txt" type="text" required placeholder="Enter full name" >
+            </div>
+        <hr>
+            <div>
+                <label for="em">email  </label >
+                <br>
+                <input id="em" type="email" required placeholder="Used @">
+            </div>
+        <hr>
+            <div>
+                <label for="***">password</label >
+                <br>
+                <input id="***" type="password" placeholder="use hard password">
+            </div>
+        <hr>
+            <div>
+                <label>Subject</label>
+                <br>
+                <input type="text" placeholder="Enter your sub">
+            </div>
+        <hr>
+            <div>
+                <label for="">Mobile</label>
+                <br>
+                <input type="tel" placeholder="you can use + or()" >
+            </div>
+        <hr>
+            <div>
+                <label for="">hidden</label>
+                <br>
+                <input type="hidden" value="12323">
+            </div>
+        <hr>
+            <div>
+                <input type="submit" value="Send Data">
+            </div>
+        <hr>
+            <div>
+                <input type="reset" value="Empty Form">
+            </div>
+    </form>
+</body>
+</html>
