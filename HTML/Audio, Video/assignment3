@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+    <title>Gaber</title>
+</head>
+<body>
+    <p>التكليف 3</p>
+    <audio controls autoplay loop >
+        <source src="audio/ص.mp3">
+        <source src="audio/ص.wav">
+        <source src="audio/ص.ogg">
+        your browser doesn't support audio
+    </audio>
+    <br>
+
+</body>
+</html>
