@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaber</title>
+</head>
+
+<body>
+    <div>
+        <form action="" method="get">
+            <fieldset>
+                <div>
+                    <label for="txt">Username</label>
+                    <input id="txt" name="Username" type="text" autofocus minlength="5" maxlength="20" required  >
+                </div>
+                <br>
+                <div>
+                    <label for="em">Email</label>
+                    <input id="em" name="email" type="email" value="o@o.com" readonly>
+                </div>
+                <br>
+                <div>
+                    <label for="to">Token</label >
+                    <input id="to" name="Token" type="text" value="b92f1fc2fce391ad7af633723afd3055" hidden>
+                </div>
+                <div>
+                    <input type="reset" value="Empty">
+                </div>
+                <div>
+                    <input type="submit" value="Send">
+                </div>
+
+            </fieldset>
+        </form>
+    </div>
+</body>
+
+</html>
