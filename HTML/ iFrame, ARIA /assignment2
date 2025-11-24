@@ -1,0 +1,20 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaber</title>
+</head>
+
+<body>
+    <div class="choose-skill">
+      <div class="skill" role="checkbox" tabindex="0" aria-labelledby="skill1">Python</div>
+      <label id="skill1">Skill One</label>
+      <div class="skill" role="checkbox" tabindex="0" aria-labelledby="skill2">PHP</div>
+      <label id="skill2">Skill Two</label>
+      <div class="skill" role="checkbox" tabindex="0" aria-labelledby="skill3">JavaScript</div>
+      <label id="skill3">Skill Three</label>
+    </div>
+</body>
+</html> 
