@@ -1,0 +1,28 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaber</title>
+</head>
+
+<body>
+    q1====> button
+    <br>
+    q2====> h1
+    <br>
+    q3====> h2
+    <br>
+    q4====> p
+    <br>
+    q5====> lang="en"
+    <br>
+    q6====> 10 To 20
+    <br>
+    q7====> tabindex="0"
+    <br>
+    q8====> Accessible Rich Internet Applications
+
+</body>
+</html> 
