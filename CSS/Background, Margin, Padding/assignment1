@@ -1,0 +1,26 @@
+div.assign-1-shape-1{
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-color: blueviolet;
+    background-color: #7a308e;
+    background-color: rgb(142 0 243);
+}
+div.assign-1-shape-2{
+    
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-color: blueviolet;
+    background-color: #7a308e ;
+    background-color: rgb(142 0 243 /50%);
+}
+div.assign-1-shape-3{
+    
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-color: blueviolet;
+    background-color: #7a308e;
+    background-color: rgb(142 0 243 /10%);
+}
