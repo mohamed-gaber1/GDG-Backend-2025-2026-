@@ -1,0 +1,28 @@
+div.assign-2-shape-1{
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-image: url("../img/Screenshot\ 2025-12-05\ 083924.png");
+    background-repeat: no-repeat;
+}
+div.assign-2-shape-2{
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-image: url("../img/Screenshot\ 2025-12-05\ 083924.png");
+    background-repeat: repeat-y;
+}
+div.assign-2-shape-3{
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-image: url("../img/Screenshot\ 2025-12-05\ 083924.png");
+    background-repeat: repeat-x;
+}
+div.assign-2-shape-4{
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-image: url("../img/Screenshot\ 2025-12-05\ 083924.png");
+    background-repeat: repeat;
+}
