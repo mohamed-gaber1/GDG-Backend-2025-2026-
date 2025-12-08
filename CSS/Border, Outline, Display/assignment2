@@ -1,0 +1,17 @@
+.element{
+    background-color: #EEE;
+    padding: 30px;
+    margin: 20px;
+    width: 400px;
+
+}
+.element-1{
+    border-left: solid rgb(215, 84, 152) 5px ;
+}
+.element-2{
+    border-left: solid rgb(215, 84, 152) 5px ;
+    visibility: hidden;
+}
+.element-3{
+    border-left: solid rgb(48, 220, 217) 5px ;
+}
