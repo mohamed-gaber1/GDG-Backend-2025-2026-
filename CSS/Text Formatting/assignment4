@@ -1,0 +1,9 @@
+a{
+    background-color: rgb(20, 161, 171);
+    padding: 20px;
+    margin: 50%;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-bottom: 8px rgb(13, 91, 108) solid; 
+}
