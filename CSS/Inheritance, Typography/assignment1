@@ -1,0 +1,13 @@
+div{
+    margin: 30px 30px;
+    padding: 1px 50px;
+    width: fit-content;
+    border: rgb(255, 0, 0) solid 2px;
+}
+div p{
+    background-color:#eee;
+    margin: inherit;
+    padding: inherit;
+    width: fit-content;
+    border: inherit;
+}
